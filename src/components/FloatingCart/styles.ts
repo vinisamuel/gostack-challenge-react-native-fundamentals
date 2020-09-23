@@ -33,6 +33,7 @@ export const CartButton = styled.TouchableOpacity`
 `;
 
 export const CartButtonText = styled.Text`
+  font-size: 16px;
   font-weight: bold;
   color: #fff;
   margin-left: 15px;
